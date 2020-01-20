@@ -1,4 +1,3 @@
-# hello-world 
 name: CI
 
 on: [push]
